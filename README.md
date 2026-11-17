@@ -23,6 +23,7 @@ Below is the directory of all currently published privacy policies for our apps 
 | Application / Product Name | Document Link | Last Updated | Status |
 | :--- | :--- | :--- | :--- |
 | **Subscription Tracker** | [📄 View Privacy Policy](./subscription-tracker.md) | July 8, 2026 | 🟢 Active |
+| **Arrow Maze** | [📄 View Privacy Policy](./arrow-maze.md) | November 17, 2026 | 🟢 Active |
 
 > **Note for Users:** If you are viewing this page on our GitHub Pages site, simply click the link above to view the detailed privacy policy for the application you are using.
 
