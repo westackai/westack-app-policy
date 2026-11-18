@@ -1,6 +1,6 @@
 # Privacy Policy for Arrow Maze
 
-**Last Updated:** November 17, 2026
+**Last Updated:** November 18, 2026
 
 Welcome to Arrow Maze, a casual arrow puzzle game published by **WeStack Solutions LLP** ("WeStack", "we", "us", or "our"). Your privacy matters to us. This Privacy Policy explains what information is collected when you play Arrow Maze on Android or iOS, how it is used, who it is shared with, and the choices you have.
 
@@ -13,7 +13,7 @@ Please read this Privacy Policy carefully. By downloading or playing the game, y
 * **No account needed.** Arrow Maze has no sign-up or login. We do not ask for your name, email address, phone number, contacts, photos, or location.
 * **Your progress stays on your device.** Levels, stars, coins, lives, streaks, and settings are saved only on your phone or tablet. They are not sent to our servers.
 * **Ads and crash reports.** The game is free and supported by ads from **Google AdMob**. We also use **Firebase Crashlytics** (by Google) to find and fix crashes. These services collect some device and usage data automatically, as described below.
-* **We do not sell your personal data.**
+* **We do not sell your personal data for money.** Where privacy laws give you a choice (such as in Europe and some US states), you can opt out of personalized ads from **Settings → Privacy Choices** (see Section 6).
 
 ---
 
@@ -69,7 +69,9 @@ These services may process data on servers located outside your country, includi
 
 ## 5. Sharing Your Information
 
-We **do not sell** your personal data, and we do not share it for money. Information is shared only in the following limited cases:
+We **do not sell** your personal data for money. However, under some US state privacy laws (such as California's), allowing Google AdMob to use device data to show personalized ads may be considered "selling" or "sharing" personal information for targeted advertising. You can opt out of this at any time, as described in Section 6.
+
+Information is shared only in the following limited cases:
 
 * **Service Providers:** With the third-party services listed above, so that they can serve ads and report crashes for us.
 * **Legal Obligations:** If required by law, legal process, or a valid request from public authorities, or to protect the rights, property, and safety of our users and WeStack.
@@ -79,7 +81,8 @@ We **do not sell** your personal data, and we do not share it for money. Informa
 
 ## 6. Your Advertising Choices
 
-* **Consent (EEA, UK, and Switzerland):** Where the law requires it, the game asks for your consent through Google's consent message before personalized ads are shown. You can change your choice at any time from the game's settings.
+* **Consent (EEA, UK, and Switzerland):** Where the law requires it, the game asks for your consent through Google's consent message before personalized ads are shown. You can change your choice at any time from **Settings → Privacy Choices** in the game.
+* **Your Privacy Choices (US States):** If you live in a US state with a consumer privacy law (for example California, Virginia, Colorado, Connecticut, Oregon, or Texas), open **Settings → Privacy Choices** in the game and choose **"Do not sell or share my personal information"**. Ads will then be shown in restricted mode, without personalization based on your data. The **Privacy Choices** option appears in Settings wherever these choices apply to you.
 * **Personalized Ads on Android:** Go to **Settings → Google → Ads** (or **Settings → Security & privacy → Privacy → Ads**) to delete or reset your advertising ID and opt out of personalized ads.
 * **Personalized Ads on iOS:** Go to **Settings → Privacy & Security → Tracking** to stop apps from requesting to track you.
 
@@ -106,6 +109,7 @@ Depending on where you live (for example, under the EU/UK GDPR, the California C
 * **Correct** inaccurate personal data.
 * **Delete** your personal data.
 * **Withdraw Consent** for personalized ads at any time, without affecting the game's core features.
+* **Opt Out of Sale or Sharing** of your personal information for targeted advertising (US states), using **Settings → Privacy Choices**.
 * **Object to or Restrict** certain processing of your data.
 * **Lodge a Complaint** with your local data protection authority.
 
